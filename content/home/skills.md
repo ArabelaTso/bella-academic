@@ -18,15 +18,15 @@ subtitle:
 feature:
 - description: 10%
   icon: ideas-repec
-  icon_pack: fas
+  icon_pack: ai
   name: Ideas is cheap.
 - description: 100%
   icon: acm
-  icon_pack: fab
+  icon_pack: ai
   name: Show me the paper.
 - description: 10%
   icon: dblp
-  icon_pack: fas
+  icon_pack: ai
   name: And standing on the shoulders of giants. 
 
 # Uncomment to use emoji icons.
