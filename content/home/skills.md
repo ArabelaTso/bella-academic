@@ -25,7 +25,7 @@ feature:
   icon_pack: ai
   name: Show me the paper.
 - description: 10%
-  icon: dblp
+  icon: acm
   icon_pack: ai
   name: And standing on the shoulders of giants. 
 
