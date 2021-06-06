@@ -2,6 +2,7 @@
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
+active: false
 
 # This file represents a page section.
 headless: true
@@ -16,10 +17,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 10%
+- description: 100%
   icon: ideas-repec
   icon_pack: ai
-  name: Ideas is cheap.
+  name: Ideas is cheap, show me the paper.
 - description: 100%
   icon: acm
   icon_pack: ai
