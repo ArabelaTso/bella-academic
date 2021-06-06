@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: Rose  # , Ocean
+theme: Ocean  
 day_night: false
 font: ''
 font_size: L
