@@ -6,7 +6,7 @@ title: Jialun (Bella)
 superuser: true
 
 # Role/position/tagline
-role: PhD in Computer Science Technology
+role: PhD in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
