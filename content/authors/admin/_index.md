@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jialun CAO (Bella TSO) 
+title: Jialun (Bella) 
 
 # Is this the primary user of the site?
 superuser: true
