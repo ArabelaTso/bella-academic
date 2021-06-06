@@ -27,7 +27,7 @@ feature:
 - description: 10%
   icon: dblp
   icon_pack: fas
-  name: Standing on the shoulders of giants. 
+  name: And standing on the shoulders of giants. 
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
