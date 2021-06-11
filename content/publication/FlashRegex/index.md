@@ -1,5 +1,5 @@
 ---
-title: "L-CMP: an automatic learning-based parameterized verification tool."
+title: "FlashRegex: Deducing Anti-ReDoS Regexes from Examples."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -19,7 +19,7 @@ authors:
 # - "Equal contribution"
 
 date: "2020-12-21"
-doi: "hhttps://dl.acm.org/doi/10.1145/3324884.3416556"
+doi: "https://dl.acm.org/doi/10.1145/3324884.3416556"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
