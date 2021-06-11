@@ -1,5 +1,5 @@
 ---
-title: "L-CMP: an automatic learning-based parameterized verification tool."
+title: "FlashSchema: Achieving High Quality XML Schemas with Powerful Inference Algorithms and Large-scale Schema Data."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
