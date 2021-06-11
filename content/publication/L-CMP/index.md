@@ -42,7 +42,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Link to L-CMP
+- name: Project
   url: https://github.com/ArabelaTso/Learning-Based-ParaVerifer
 
 url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3238147.3240487'
