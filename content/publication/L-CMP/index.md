@@ -35,21 +35,21 @@ abstract: This demo introduces L-CMP, an automatic learning-based parameterized 
 # Summary. An optional shortened abstract.
 summary: L-CMP, an automatic learning-based parameterized verification tool.
 
-tags: ["parameterized verification"]
+tags: ["formal verification"]
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Link to L-CMP
+  url: https://github.com/ArabelaTso/Learning-Based-ParaVerifer
 
-url_pdf: ''
+url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3238147.3240487'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://github.com/ArabelaTso/Learning-Based-ParaVerifer.'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: 'https://youtu.be/6Dl2HiiiS4E'
