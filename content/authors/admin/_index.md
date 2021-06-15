@@ -29,7 +29,7 @@ education:
     institution: Hong Kong University of Science and Technology
     year: 2019
   - course: MEng in Computer Science
-    institution: Massachusetts Institute of Technology
+    institution: Chinese Academy of Sciences, Institute of Software
     year: 2016
   - course: BSc in Digital Media Technology
     institution: Shandong University
