@@ -72,4 +72,4 @@ highlight_name: true
 
 I am currently a research postgraduate student in [CASTLE lab](http://sccpu2.cse.ust.hk/castle/index.html), pursuing my Ph.D degree under the supervision of [Prof. S.C. Cheung](http://www.cse.ust.hk/faculty/scc/) at HKUST. My research interests include but not limited to software analysis and testing, mining code repositories. My current work focuses on testing, verifying and understanding Deep Neural Networks.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume-JialunCAO.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
