@@ -20,7 +20,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Deep Learning Testing
 - Deep Learning Verification
-- Information Retrieval
+- Formal Verification
 
 # Education to show in About widget
 education:
