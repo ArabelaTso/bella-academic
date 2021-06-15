@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Bella's Homepage # Website name
+title: Jialun CAO | Computer Science @ HKUST # Website name
 baseurl: '' # Website URL
-copyright: '© {year} Arabela TSO | Jialun CAO | HKUST' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Jialun CAO | Computer Science @ HKUST' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
