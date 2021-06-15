@@ -27,13 +27,13 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: Hong Kong University of Science and Technology
-    year: 2019 - Present
+    year: Ongoing
   - course: MEng in Computer Science
     institution: Chinese Academy of Sciences, Institute of Software
-    year: 2016 - 2019
+    year: 2019
   - course: BSc in Digital Media Technology
     institution: Shandong University
-    year: 2012 - 2016
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
