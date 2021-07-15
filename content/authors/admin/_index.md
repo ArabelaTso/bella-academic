@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Jialun (Bella) 
+title: Jialun, CAO (Bella) 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD in Computer Science
+role: PhD Candidate in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
