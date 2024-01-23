@@ -17,7 +17,7 @@ main:
     url: '#talks'
     weight: 40
   - name: Publications
-    url: '#featured'
+    url: 'https://dblp.org/pid/224/1601.html'
     weight: 50
   - name: Courses
     url: courses/

@@ -6,7 +6,7 @@ title: Jialun, CAO (Bella)
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Computer Science
+role: PhD in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -21,6 +21,7 @@ interests:
 - Deep Learning Testing
 - Deep Learning Verification
 - Formal Verification
+- Re-DoS Attack Detection and Repair
 
 # Education to show in About widget
 education:
@@ -72,6 +73,6 @@ email: ""
 highlight_name: true
 ---
 
-I am currently a research postgraduate student in [CASTLE lab](http://sccpu2.cse.ust.hk/castle/index.html), pursuing my Ph.D degree under the supervision of [Prof. S.C. Cheung](http://www.cse.ust.hk/faculty/scc/) at HKUST. My research interests include but not limited to software analysis and testing, mining code repositories. My current work focuses on testing, verifying and understanding Deep Neural Networks.
+Jialun CAO received her PhD degree from the [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/) at [HKUST](https://hkust.edu.hk/), under the supervision of [Prof. S.C. Cheung](https://www.cse.ust.hk/faculty/scc/). My research interests lie in the intersection of Software Engineering (SE) and Artificial Intelligence (AI), with an emphasis on **SE4AI** and **AI4SE**, trustworthy AI, and LLM4SE.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
