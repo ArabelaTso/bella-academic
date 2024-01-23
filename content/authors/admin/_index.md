@@ -73,6 +73,6 @@ email: ""
 highlight_name: true
 ---
 
-Jialun CAO received her PhD degree from the [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/) at [HKUST](https://hkust.edu.hk/), under the supervision of [Prof. S.C. Cheung](https://www.cse.ust.hk/faculty/scc/). My research interests lie in the intersection of Software Engineering (SE) and Artificial Intelligence (AI), with an emphasis on **SE4AI** and **AI4SE**, trustworthy AI, and LLM4SE.
+Jialun CAO received her PhD degree from the [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/) at [HKUST](https://hkust.edu.hk/), under the supervision of [Prof. S.C. Cheung](https://www.cse.ust.hk/faculty/scc/). My research interests lie in the intersection of Software Engineering (SE) and Artificial Intelligence (AI), with an emphasis on **SE4AI** and **AI4SE**, and trustworthy AI. Currently I am also exploring large language model 4 SE (LLM4Se). ** Collaborations and discussions are welcomed!**
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
