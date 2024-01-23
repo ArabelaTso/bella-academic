@@ -19,22 +19,22 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
 - Deep Learning Testing
-- Deep Learning Verification
-- Formal Verification
-- Re-DoS Attack Detection and Repair
+- Trustworthy AI
+- LLM4SE
+- AI4Formal Verification
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Computer Science
     institution: Hong Kong University of Science and Technology
-    # year: Ongoing
+    year: 2024
   - course: MEng in Computer Science
     institution: Chinese Academy of Sciences, Institute of Software
-    # year: 2019
+    year: 2019
   - course: BSc in Digital Media Technology
     institution: Shandong University
-    # year: 2016
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
