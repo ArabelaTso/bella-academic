@@ -48,7 +48,7 @@ experience:
     location: Hong Kong, China
     date_start: '2024-01-01'
     date_end: '2024-01-01'
-    description: $13K
+    description: HK $13K
 
   - title: National Scholarship for Postgraduates
     company: Chinese Academy of Sciences
