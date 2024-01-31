@@ -35,7 +35,7 @@ experience:
   - title: Postgraduate Studentships
     company: HKUST
     company_url: ''
-    company_logo: HKUST
+    company_logo: UST
     location: Hong Kong, China
     date_start: '2023-09-01'
     date_end: ''
@@ -44,7 +44,7 @@ experience:
   - title: Research Travel Grants
     company: HKUST
     company_url: ''
-    company_logo: HKUST
+    company_logo: UST
     location: Hong Kong, China
     date_start: '2024-01-01'
     date_end: '2024-01-01'
