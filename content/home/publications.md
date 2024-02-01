@@ -38,5 +38,5 @@ design:
 ---
 
 {{% callout note %}}
-See all publications at [Google Scholar](https://scholar.google.com/citations?user=UsLXSAEAAAAJ&hl=en).
+See all publications at [DBLP](https://dblp.org/pid/224/1601.html) or [Google Scholar](https://scholar.google.com/citations?user=UsLXSAEAAAAJ&hl=en).
 {{% /callout %}}
