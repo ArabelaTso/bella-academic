@@ -2,7 +2,7 @@
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -28,7 +28,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2024-03-22"
-  description: [ICSE 25](https://conf.researchr.org/home/icse-2025) will be held April 26-May 4 2025 in Ottawa. Core conference days will be Wednesday April 30 to Friday May 2.
+  description: The [ICSE 25](https://conf.researchr.org/home/icse-2025) will be held April 26-May 4 2025 in Ottawa. Core conference days will be Wednesday April 30 to Friday May 2.
   organization: IEEEACM
   organization_url: https://conf.researchr.org/home/icse-2025
   title: 💥 [COMING] [Program Committee](https://conf.researchr.org/committee/icse-2025/icse-2025-research-track-research-track) @ [ICSE 25](https://conf.researchr.org/home/icse-2025) (The International Conference on Software Engineering) resesarch track
@@ -47,7 +47,7 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2024-01-15"
-  description: [Forge 2024](https://conf.researchr.org/home/forge-2024) will be held on Sunday, April 14, 2024, in Lisbon, Portugal. Co-located with **ICSE 2024**. 
+  description: The [Forge 2024](https://conf.researchr.org/home/forge-2024) will be held on Sunday, April 14, 2024, in Lisbon, Portugal. Co-located with **ICSE 2024**. 
   organization: ACM
   organization_url: https://conf.researchr.org/home/forge-2024
   title: 💥  [Program Committee](https://conf.researchr.org/committee/forge-2024/forge-2024-papers-program-committee) @ [FORGE 24](https://conf.researchr.org/home/forge-2024) (Foundation Models and Software Engineering)
