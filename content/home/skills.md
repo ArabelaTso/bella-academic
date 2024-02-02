@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Hobbies
 subtitle:
 
 # Showcase personal skills or business features.
@@ -18,9 +18,9 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 100%
-  icon: ideas-repec
+  icon: cat
   icon_pack: ai
-  name: Ideas is cheap, show me the paper.
+  name: Cat
 - description: 100%
   icon: acm
   icon_pack: ai
@@ -28,7 +28,7 @@ feature:
 - description: 10%
   icon: acm
   icon_pack: ai
-  name: And standing on the shoulders of giants. 
+  name: 
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
