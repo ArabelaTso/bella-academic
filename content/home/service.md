@@ -26,6 +26,26 @@ date_format: Jan 2006
 item:
 
 - certificate_url: 
+  date_end: ""
+  date_start: "2024-03-09"
+  description: Empirical Software Engineering (EMSE)
+  organization: Springer
+  organization_url: https://issre.github.io/2024/
+  title: Reviewer @ [EMSE](https://link.springer.com/journal/10664)
+  url: ""
+
+
+- certificate_url: 
+  date_end: "2024-10-28"
+  date_start: "2024-10-31"
+  description: The 35th edition of  IEEE [International Symposium on Software Reliability Engineering (ISSRE)](https://issre.github.io/2024/) 2024, will be held in Tsukuba, Japan, from October 28th to 31st.
+  organization: IEEE
+  organization_url: https://issre.github.io/2024/
+  title: 💥 [[COMING] Program Committee](https://issre.github.io/2024/) @ [ISSRE 2024](https://conf.researchr.org/home/internetware-2024) resesarch track
+  url: ""
+
+
+- certificate_url: 
   date_end: "2024-07-26"
   date_start: "2024-07-24"
   description: The 15th Asia-Pacific Symposium on [Internetware (Internetware 2024)](https://conf.researchr.org/home/internetware-2024) will take place in Macao, China on 24 – 26 July 2024.
@@ -60,7 +80,7 @@ item:
   description: The [Forge 2024](https://conf.researchr.org/home/forge-2024) will be held on Sunday, April 14, 2024, in Lisbon, Portugal. Co-located with **ICSE 2024**. 
   organization: ACM
   organization_url: https://conf.researchr.org/home/forge-2024
-  title: 💥  [Program Committee](https://conf.researchr.org/committee/forge-2024/forge-2024-papers-program-committee) @ [FORGE 24](https://conf.researchr.org/home/forge-2024) (Foundation Models and Software Engineering)
+  title:  Program Committee [PC](https://conf.researchr.org/committee/forge-2024/forge-2024-papers-program-committee) @ [FORGE 24](https://conf.researchr.org/home/forge-2024) (Foundation Models and Software Engineering)
   url: ""
 
 - certificate_url: 
