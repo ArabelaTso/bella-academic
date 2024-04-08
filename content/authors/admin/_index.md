@@ -6,7 +6,7 @@ title: Dr. Jialun, CAO (Bella)
 superuser: true
 
 # Role/position/tagline
-role: PhD in Computer Science
+role: Postdoc Fellow in Computer Science 
 
 # Organizations/Affiliations to show in About widget
 organizations:
