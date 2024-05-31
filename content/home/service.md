@@ -23,7 +23,18 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
+
 item:
+
+- certificate_url: 
+  date_end: "2024-12-06"
+  date_start: "2024-12-03"
+  description: The 31st Asia-Pacific Software Engineering Conference (APSEC 2024) (https://conf.researchr.org/home/apsec-2024)
+  organization: 
+  organization_url: https://conf.researchr.org/home/apsec-2024
+  title: 💥 [[Incoming] Program Committee @ APSEC 2024](https://conf.researchr.org/committee/apsec-2024/apsec-2024-technical-track-program-committee) technical track
+  url: ""
 
 - certificate_url: 
   date_end: ""
@@ -41,7 +52,7 @@ item:
   description: The 35th edition of  IEEE [International Symposium on Software Reliability Engineering (ISSRE)](https://issre.github.io/2024/) 2024, will be held in Tsukuba, Japan, from October 28th to 31st.
   organization: IEEE
   organization_url: https://issre.github.io/2024/
-  title: 💥 [[COMING] Program Committee](https://issre.github.io/2024/) @ [ISSRE 2024](https://conf.researchr.org/home/internetware-2024) resesarch track
+  title: 💥 [Program Committee](https://issre.github.io/2024/) @ [ISSRE 2024](https://conf.researchr.org/home/internetware-2024) resesarch track
   url: ""
 
 
@@ -51,7 +62,7 @@ item:
   description: The 15th Asia-Pacific Symposium on [Internetware (Internetware 2024)](https://conf.researchr.org/home/internetware-2024) will take place in Macao, China on 24 – 26 July 2024.
   organization: CCF
   organization_url: https://conf.researchr.org/home/internetware-2024
-  title: 💥 [[COMING] Program Committee](https://conf.researchr.org/home/internetware-2024) @ [Internetware 2024](https://conf.researchr.org/home/internetware-2024) resesarch track
+  title: 💥 [Program Committee](https://conf.researchr.org/home/internetware-2024) @ [Internetware 2024](https://conf.researchr.org/home/internetware-2024) resesarch track
   url: ""
 
 
@@ -61,7 +72,7 @@ item:
   description: The [ICSE 25](https://conf.researchr.org/home/icse-2025) will be held April 26-May 4 2025 in Ottawa. Core conference days will be Wednesday April 30 to Friday May 2.
   organization: IEEEACM
   organization_url: https://conf.researchr.org/home/icse-2025
-  title: 💥 [[COMING] Program Committee](https://conf.researchr.org/committee/icse-2025/icse-2025-research-track-research-track) @ [ICSE 25](https://conf.researchr.org/home/icse-2025) (The International Conference on Software Engineering) resesarch track
+  title: 💥 [Program Committee](https://conf.researchr.org/committee/icse-2025/icse-2025-research-track-research-track) @ [ICSE 25](https://conf.researchr.org/home/icse-2025) (The International Conference on Software Engineering) resesarch track
   url: ""
 
 - certificate_url: 
@@ -70,7 +81,7 @@ item:
   description: The 1st ACM International Conference on [AIware](https://2024.aiwareconf.org) will be hosted on July 15th-16th, 2024, at Porto de Galinhas, Brazil, co-located with FSE'24.
   organization: ACM
   organization_url: https://2024.aiwareconf.org/
-  title: 💥 [[COMING] Program Committee](https://2024.aiwareconf.org/committee/aiware-2024-papers-program-committee) @ [AIWare](https://2024.aiwareconf.org) (AI-powered software)
+  title: 💥 [Program Committee](https://2024.aiwareconf.org/committee/aiware-2024-papers-program-committee) @ [AIWare](https://2024.aiwareconf.org) (AI-powered software)
   url: "https://2024.aiwareconf.org"
 
 
@@ -160,5 +171,5 @@ item:
 
 design:
   columns: '1' 
-  view: 2
+  view: 3
 ---
