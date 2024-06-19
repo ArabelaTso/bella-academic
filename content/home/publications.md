@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Publications
+title: Selected Publications
 subtitle: ''
 
 content:
@@ -44,41 +44,127 @@ design:
 
 ### 2024
 
-<font size=4, color='purple'><b>arXiv'24. </b></font> Concerned with Data Contamination? Assessing Countermeasures in Code Language Model.  \[[paper](https://arxiv.org/abs/2403.16898)\]
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; arXiv'24 &nbsp; </b></font></span> Concerned with Data Contamination? Assessing Countermeasures in Code Language Model. <a href="https://arxiv.org/abs/2403.16898"> [Paper] </a></div> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;</b></font> <font size=3, color='black'><b> **Jialun Cao**</b></font><font size=3, color='gray'><b>, Wuqi Zhang, Shing-Chi Cheung</b></font>
-
-
-<font size=4, color='purple'><b>arXiv'24. </b></font> DLLens: Testing Deep Learning Libraries via LLM-aided Synthesis. \[[paper](https://arxiv.org/abs/2406.07944)\] 
-
-&nbsp;&nbsp;&nbsp;&nbsp;<font size=3, color='gray'><b>Meiziniu Li, Dongze Li, Jianmeng Liu,</b></font> <font size=3, color='black'><b> **Jialun Cao**</b></font><font size=3, color='gray'><b>, Yongqiang Tian, Shing-Chi Cheung</b></font>
+<font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Wuqi Zhang, Shing-Chi Cheung</b></font>
 
 
-<font size=4, color='purple'><b>CAV' 24. </b></font> Enchanting Program Specification Synthesis by Large Language Models using Static Analysis and Program Verification. \[[paper](https://arxiv.org/pdf/2404.00762)\] 
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; CAV'24 &nbsp; </b></font></span> Enchanting Program Specification Synthesis by Large Language Models using Static Analysis and Program Verification. <a href="https://arxiv.org/pdf/2404.00762"> [Paper] </a></div> 
 
-&nbsp;&nbsp;&nbsp;&nbsp;<font size=3, color='gray'><b>Cheng Wen, </b></font> <font size=3, color='black'><b> **Jialun Cao (Corresponding)**</b></font><font size=3, color='gray'><b>, Jie Su, Zhiwu Xu, Shengchao Qin (Corresponding), Mengda He, Haokun Li, Shing-Chi Cheung, Cong Tian</b></font>
+<font size=4, color='gray'><b>Cheng Wen, </b></font> <font size=4.5, color='slateblue'><b> **Jialun Cao (Corresponding)**</b></font><font size=4, color='gray'><b>, Jie Su, Zhiwu Xu, Shengchao Qin (Corresponding), Mengda He, Haokun Li, Shing-Chi Cheung, Cong Tian</b></font>
 
 
-<font size=4, color='purple'><b>TASE' 24. </b></font> Fuzzing for Stateful Protocol Implementations: Are We There Yet? 
 
-&nbsp;&nbsp;&nbsp;&nbsp; <font size=3, color='gray'><b>Kunpeng Jian, Yanyan Zou, Yeting Li, </b></font> <font size=3, color='black'><b> **Jialun Cao**</b></font><font size=3, color='gray'><b>, Menghao Li, Jian Sun, Jingyi Shi and Wei Huo</b></font> 
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; arXiv'24 &nbsp; </b></font></span> DLLens: Testing Deep Learning Libraries via LLM-aided Synthesis. <a href="https://arxiv.org/abs/2406.07944"> [Paper] </a></div> 
+
+
+<font size=4, color='gray'><b>Meiziniu Li, Dongze Li, Jianmeng Liu,</b></font> <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Yongqiang Tian, Shing-Chi Cheung</b></font>
+
+
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; TASE'24 &nbsp; </b></font></span> Fuzzing for Stateful Protocol Implementations: Are We There Yet? </div> 
+
+ <font size=4, color='gray'><b>Kunpeng Jian, Yanyan Zou, Yeting Li, </b></font> <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Menghao Li, Jian Sun, Jingyi Shi and Wei Huo</b></font> 
 
 
 ### 2023
 
-<font size=4, color='purple'><b>arXiv'23. </b></font> A study on prompt design, advantages and limitations of chatgpt for deep learning program repair  \[[paper](https://arxiv.org/abs/2304.08191)\]
 
-&nbsp;&nbsp;&nbsp;&nbsp; </b></font> <font size=3, color='black'><b> **Jialun Cao**</b></font><font size=3, color='gray'><b>, Meiziniu Li, Ming Wen, Shing-chi Cheung</b></font>
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; arXiv'23 &nbsp; </b></font></span>  A study on prompt design, advantages and limitations of chatgpt for deep learning program repair. <a href="https://arxiv.org/abs/2304.08191"> [Paper] </a></div> 
 
-
-<font size=4, color='purple'><b>FSE'23. </b></font> Testing Coreference Resolution Systems without Labeled Test Sets  \[[paper](https://dl.acm.org/doi/pdf/10.1145/3611643.3616258)\]
-
-&nbsp;&nbsp;&nbsp;&nbsp; </b></font> <font size=3, color='black'><b> **Jialun Cao**</b></font><font size=3, color='gray'><b>, Yaojie Lu, Ming Wen, Shing-Chi Cheung</b></font>
+</b></font> <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Meiziniu Li, Ming Wen, Shing-chi Cheung</b></font>
 
 
-<font size=4, color='purple'><b>FSE'23. </b></font> Understanding the Bug Characteristics and Fix Strategies of Federated Learning Systems  \[[paper](https://dl.acm.org/doi/pdf/10.1145/3611643.3616347)\]
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; FSE'23 &nbsp; </b></font></span>  Testing Coreference Resolution Systems without Labeled Test Sets. <a href="https://dl.acm.org/doi/pdf/10.1145/3611643.3616258"> [Paper] </a> <a href="https://github.com/ArabelaTso/Crest-artifacts"> [Code] </a></div> 
 
-&nbsp;&nbsp;&nbsp;&nbsp; <font size=3, color='gray'><b>Xiaohu Du, Xiao Chen,  </b></font> <font size=3, color='black'><b> **Jialun Cao**</b></font><font size=3, color='gray'><b>, Ming Wen, Shing-Chi Cheung, Hai Jin</b></font> 
+ </b></font> <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Yaojie Lu, Ming Wen, Shing-Chi Cheung</b></font>
+
+
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; FSE'23 &nbsp; </b></font></span>  Understanding the Bug Characteristics and Fix Strategies of Federated Learning Systems. <a href="https://dl.acm.org/doi/pdf/10.1145/3611643.3616347"> [Paper] </a></div> 
+
+ <font size=4, color='gray'><b>Xiaohu Du, Xiao Chen,  </b></font> <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Ming Wen, Shing-Chi Cheung, Hai Jin</b></font> 
+
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; TOSEM'23 &nbsp; </b></font></span>  COMET: Coverage-guided Model Generation For Deep Learning Library Testing. <a href="https://dl.acm.org/doi/10.1145/3583566"> [Paper] </a></div> 
+
+
+ <font size=4, color='gray'><b>Meiziniu Li,  </b></font> <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Yongqiang Tian, Tsz On Li, Ming Wen, Shing-Chi Cheung</b></font> 
+
+
+### 2022
+
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; TOSEM'23 &nbsp; </b></font></span>  SemMT: A Semantic-Based Testing Approach for Machine Translation Systems. <a href="https://dl.acm.org/doi/10.1145/3490488"> [Paper] </a> <a href="https://github.com/ArabelaTso/SemMT"> [Code] </a></div> 
+
+</b></font> <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Meiziniu Li, Yeting Li, Ming Wen, Shing-chi Cheung</b></font>
+
+
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; ICSE'22 &nbsp; </b></font></span>  DeepFD: Automated Fault Diagnosis and Localization for Deep Learning Programs. <a href="https://dl.acm.org/doi/10.1145/3510003.3510099"> [Paper] </a> <a href="https://github.com/ArabelaTso/DeepFD"> [Code] </a> </div> 
+
+
+</b></font> <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Meiziniu Li, Xiao Chen, Ming Wen, Yongqiang Tian, Bo Wu, Shing-chi Cheung</b></font>
+
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; Usenix Security'23 &nbsp; </b></font></span>  RegexScalpel: Regular Expression Denial of Service (ReDoS) Defense by Localize-and-Fix. <a href="https://www.usenix.org/conference/usenixsecurity22/presentation/li-yeting"> [Paper] </a></div> 
+
+ <font size=4, color='gray'><b> Yeting Li, Yecheng Sun, Zhiwu Xu,  </b></font> <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Yuekang Li, Rongchen Li, Haiming Chen, Shing-Chi Cheung, Yang Liu, Yang Xiao</b></font> 
+
+
+
+### 2021
+
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; Usenix Security'23 &nbsp; </b></font></span>  ReDoSHunter: A Combined Static and Dynamic Approach for Regular Expression DoS Detection. <a href="https://www.usenix.org/conference/usenixsecurity21/presentation/li-yeting"> [Paper] </a></div> 
+
+ <font size=4, color='gray'><b> Yeting Li, Zixuan Chen, </b></font> <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Zhiwu Xu, Qiancheng Peng, Haiming Chen, Liyuan Chen, Shing-Chi Cheung</b></font> 
+
+
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; ICSE'21 &nbsp; </b></font></span>  TRANSREGEX: Multi-modal Regular Expression Synthesis by Generate-and-Repair. <a href="https://ieeexplore.ieee.org/document/9401951"> [Paper] </a></div> 
+
+ <font size=4, color='gray'><b> Yeting Li, Shuaimin Li, Zhiwu Xu,  </b></font> <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Zixuan Chen, Yun Hu, Haiming Chen, Shing-Chi Cheung</b></font> 
+
+### 2020
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; ICDE &nbsp; </b></font></span> FlashSchema: Achieving High Quality XML Schemas with Powerful Inference Algorithms and Large-scale Schema Data. <a href="https://ieeexplore.ieee.org/document/9101818"> [Paper] </a></div> 
+
+ <font size=4, color='gray'><b> Yeting Li, </b></font> <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Haiming Chen, Tingjian Ge, Zhiwu Xu, Qiancheng Peng</b></font> 
+
+
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; ASE &nbsp; </b></font></span> FlashRegex: Deducing Anti-ReDoS Regexes from Examples. <a href="https://dl.acm.org/doi/10.1145/3324884.3416556"> [Paper] </a></div> 
+
+ <font size=4, color='gray'><b> Yeting Li, Zhiwu Xu, </b></font> <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Haiming Chen, Tingjian Ge, Shing-Chi Cheung</b></font> 
+
+
+### 2019
+
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; ICCD &nbsp; </b></font></span> A Learning-Based Framework for Automatic Parameterized Verification. <a href="https://ieeexplore.ieee.org/document/8988606"> [Paper] </a></div> 
+
+ <font size=4, color='gray'><b> Yongjian Li </b></font> <font size=4.5, color='slateblue'><b> **Jialun Cao (1st Stuent Author)**</b></font><font size=4, color='gray'><b>, Jun Pang</b></font> 
+
+ <div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; DASFAA &nbsp; </b></font></span> Learning k-Occurrence Regular Expressions with Interleaving. <a href="https://link.springer.com/chapter/10.1007/978-3-030-18579-4_5"> [Paper] </a></div> 
+
+ <font size=4, color='gray'><b> Yeting Li, Xiaolan Zhang, </b></font> <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Haiming Chen, Chong Gao</b></font> 
+
+ ### 2018
+
+  <div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; ASE &nbsp; </b></font></span> L-CMP: an automatic learning-based parameterized verification tool. <a href="https://dl.acm.org/doi/10.1145/3238147.3240487"> [Paper] </a> <a href="https://github.com/ArabelaTso/Learning-Based-ParaVerifer"> [Code] </a> <a href="https://www.youtube.com/watch?v=6Dl2HiiiS4E&list=LL&index=8&t=1s&ab_channel=BellaTSO"> [Video] </a></div> 
+
+ <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Yongjian Li, Jun Pang</b></font> 
+
+
+
 
 {{% callout note %}}
 See all publications at [DBLP](https://dblp.org/pid/224/1601.html) or [Google Scholar](https://scholar.google.com/citations?user=UsLXSAEAAAAJ&hl=en).
