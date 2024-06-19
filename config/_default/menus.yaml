@@ -13,9 +13,9 @@ main:
   - name: Services
     url: '#service'
     weight: 30
-  - name: Honors
-    url: '#honor'
-    weight: 40
+  # - name: Honors
+  #   url: '#honor'
+  #   weight: 40
   - name: Talks
     url: '#talks'
     weight: 50
