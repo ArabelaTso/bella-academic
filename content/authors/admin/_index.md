@@ -33,12 +33,12 @@ education:
   - course: MEng in Computer Science
     institution: Chinese Academy of Sciences, Institute of Software
     year: 2019
-  - course: BSc in Digital Media Technology
+  - course: BEng in Digital Media Technology
     institution: Shandong University
     year: 2016
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+# For available icons, see: https://wowchjemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
