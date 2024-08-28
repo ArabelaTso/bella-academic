@@ -59,14 +59,14 @@ design:
 <span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; arXiv &nbsp; </b></font></span> CRUXEVAL-X: A Benchmark for Multilingual Code
 Reasoning, Understanding and Execution. <a href="https://arxiv.org/pdf/2408.13001"> [Paper] </a><a href="https://cruxeval-x.github.io/leaderboard.html">[Leaderboard]</a><a href="https://github.com/CRUXEVAL-X/cruxeval-x">[Github]</a><a href="https://huggingface.co/spaces/xhwl/cruxeval-x">[Huggingface Space]</a></div> 
 
-<b>Ruiyang Xu, </b></font>
+<font size=4, color='gray'><b>Ruiyang Xu, </b></font></font>
 <font size=4.5, color='slateblue'><b> **Jialun Cao (Co-1st)**</b></font><font size=4, color='gray'><b>, Yaojie Lu, Hongyu Lin, Xianpei Han, Ben He, Shing-Chi Cheung, Le Sun</b></font>
 
 <div style="line-height: 1.2;">
 <span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; arXiv &nbsp; </b></font></span> DOMAINEVAL: An Auto-Constructed Benchmark for
 Multi-Domain Code Generation. <a href="https://arxiv.org/pdf/2408.13204"> [Paper] </a><a href="https://domaineval.github.io/leaderboard.html">[Leaderboard]</a><a href="https://domaineval.github.io/leaderboard.html">[Github]</a><a href="https://huggingface.co/spaces/zhuqiming/DomainEval">[Huggingface Space]</a></div> 
 
-<b>Qiming Zhu, </b></font>
+<font size=4, color='gray'><b>Qiming Zhu, </b></font></font>
 <font size=4.5, color='slateblue'><b> **Jialun Cao (Co-1st)**</b></font><font size=4, color='gray'><b>, Yaojie Lu, Hongyu Lin, Xianpei Han, Ben He, Le Sun, Shing-Chi Cheung</b></font>
 
 
