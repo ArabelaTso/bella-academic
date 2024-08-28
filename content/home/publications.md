@@ -45,7 +45,7 @@ design:
 ### 2024
 
 <div style="line-height: 1.2;">
-<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; arXiv &nbsp; </b></font></span> Can AI Beat Undergraduates in Entry-level Java Assignments? Benchmarking Large Language Models on JavaBench. <a href="https://arxiv.org/abs/2406.12902"> [Paper] </a><a href="https://java-bench.github.io/leaderboard.html">[Leaderboard]</a><a href="https://github.com/java-bench/JavaBench">[Benchmark]</a></div> 
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; ASE &nbsp; </b></font></span> Can AI Beat Undergraduates in Entry-level Java Assignments? Benchmarking Large Language Models on JavaBench. <a href="https://arxiv.org/abs/2406.12902"> [Paper] </a><a href="https://java-bench.github.io/leaderboard.html">[Leaderboard]</a><a href="https://github.com/java-bench/JavaBench">[Benchmark]</a></div> 
 
 <font size=4.5, color='slateblue'><b> **Jialun Cao (Co-1st)**</b></font><font size=4, color='gray'><b>, Zhiyong Chen (Co-1st), Jiarong Wu, Shing-chi Cheung, Chang Xu</b></font>
 
