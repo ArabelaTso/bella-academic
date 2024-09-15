@@ -45,7 +45,7 @@ design:
 ### 2024
 
 <div style="line-height: 1.2;">
-<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; ASE &nbsp; </b></font></span> Can AI Beat Undergraduates in Entry-level Java Assignments? Benchmarking Large Language Models on JavaBench. <a href="https://arxiv.org/abs/2406.12902"> [Paper] </a><a href="https://java-bench.github.io/leaderboard.html">[Leaderboard]</a><a href="https://github.com/java-bench/JavaBench">[Benchmark]</a></div> 
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; ASE &nbsp; </b></font></span> JavaBench: A Benchmark of Object-Oriented Code Generation for Evaluating Large Language Models <a href="https://arxiv.org/abs/2406.12902"> [Paper] </a><a href="https://java-bench.github.io/leaderboard.html">[Leaderboard]</a><a href="https://github.com/java-bench/JavaBench">[Benchmark] </a></div> 
 
 <font size=4.5, color='slateblue'><b> **Jialun Cao (Co-1st)**</b></font><font size=4, color='gray'><b>, Zhiyong Chen (Co-1st), Jiarong Wu, Shing-chi Cheung, Chang Xu</b></font>
 
@@ -54,6 +54,11 @@ design:
 <span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; ASE &nbsp; </b></font></span> Towards Understanding the Effectiveness of Large Language Models on Directed Test Input Generation <a href="https://github.com/CGCL-codes/PathEval/blob/main/PathEval_Preprint.pdf"> [Paper] </a><a href="https://github.com/CGCL-codes/PathEval">[Benchmark]</a></div> 
 
 <font size=4, color='gray'><b>Zongze Jiang, Ming Wen, </b></font><font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Xuanhua Shi and Hai Jin</b></font>
+
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; ASE &nbsp; </b></font></span> MR-Adopt: Automatic Deduction of Input Transformation Function for Metamorphic Testing. <a href="https://arxiv.org/pdf/2408.15815">[Paper]</a></div>
+
+<font size=4, color='gray'><b>Congying Xu, Songqiang Chen, Jiarong Wu, Valerio Terragni, Shing-chi Cheung (Corresponding), Hengcheng Zhu,</b></font><font size=4.5, color='slateblue'><b>**Jialun Cao (Corresponding)**</b></font>
 
 <div style="line-height: 1.2;">
 <span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; arXiv &nbsp; </b></font></span> CruxEval-X: A Benchmark for Multilingual Code
