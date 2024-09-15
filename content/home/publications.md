@@ -50,15 +50,37 @@ design:
 <font size=4.5, color='slateblue'><b> **Jialun Cao (Co-1st)**</b></font><font size=4, color='gray'><b>, Zhiyong Chen (Co-1st), Jiarong Wu, Shing-chi Cheung, Chang Xu</b></font>
 
 
+
 <div style="line-height: 1.2;">
 <span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; ASE &nbsp; </b></font></span> Towards Understanding the Effectiveness of Large Language Models on Directed Test Input Generation <a href="https://github.com/CGCL-codes/PathEval/blob/main/PathEval_Preprint.pdf"> [Paper] </a><a href="https://github.com/CGCL-codes/PathEval">[Benchmark]</a></div> 
 
 <font size=4, color='gray'><b>Zongze Jiang, Ming Wen, </b></font><font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Xuanhua Shi and Hai Jin</b></font>
 
+
+
 <div style="line-height: 1.2;">
 <span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; ASE &nbsp; </b></font></span> MR-Adopt: Automatic Deduction of Input Transformation Function for Metamorphic Testing. <a href="https://arxiv.org/pdf/2408.15815">[Paper]</a></div>
 
 <font size=4, color='gray'><b>Congying Xu, Songqiang Chen, Jiarong Wu, Valerio Terragni, Shing-chi Cheung (Corresponding), Hengcheng Zhu,</b></font><font size=4.5, color='slateblue'><b>**Jialun Cao (Corresponding)**</b></font>
+
+
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; CAV &nbsp; </b></font></span> Enchanting Program Specification Synthesis by Large Language Models using Static Analysis and Program Verification. <a href="https://arxiv.org/pdf/2404.00762"> [Paper] </a></div> 
+
+<font size=4, color='gray'><b>Cheng Wen, </b></font> <font size=4.5, color='slateblue'><b> **Jialun Cao (Corresponding)**</b></font><font size=4, color='gray'><b>, Jie Su, Zhiwu Xu, Shengchao Qin (Corresponding), Mengda He, Haokun Li, Shing-Chi Cheung, Cong Tian</b></font>
+
+
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; APSEC &nbsp; </b></font></span> SDEFL: A Lightweight Fault Detection and Localization Method for Deep Neural Networks </div> 
+
+<font size=4, color='gray'><b>Bo Yang, Jiawei Hu </b></font> <font size=4.5, color='slateblue'><b> **Jialun Cao (Corresponding)**</b></font> 
+
+
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; TASE &nbsp; </b></font></span> Fuzzing for Stateful Protocol Implementations: Are We There Yet? </div> 
+
+ <font size=4, color='gray'><b>Kunpeng Jian, Yanyan Zou, Yeting Li, </b></font> <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Menghao Li, Jian Sun, Jingyi Shi and Wei Huo</b></font> 
+
 
 <div style="line-height: 1.2;">
 <span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; arXiv &nbsp; </b></font></span> CruxEval-X: A Benchmark for Multilingual Code
@@ -81,12 +103,6 @@ Multi-Domain Code Generation. <a href="https://arxiv.org/pdf/2408.13204"> [Paper
 <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Wuqi Zhang, Shing-Chi Cheung</b></font>
 
 
-<div style="line-height: 1.2;">
-<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; CAV &nbsp; </b></font></span> Enchanting Program Specification Synthesis by Large Language Models using Static Analysis and Program Verification. <a href="https://arxiv.org/pdf/2404.00762"> [Paper] </a></div> 
-
-<font size=4, color='gray'><b>Cheng Wen, </b></font> <font size=4.5, color='slateblue'><b> **Jialun Cao (Corresponding)**</b></font><font size=4, color='gray'><b>, Jie Su, Zhiwu Xu, Shengchao Qin (Corresponding), Mengda He, Haokun Li, Shing-Chi Cheung, Cong Tian</b></font>
-
-
 
 <div style="line-height: 1.2;">
 <span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; arXiv &nbsp; </b></font></span> DLLens: Testing Deep Learning Libraries via LLM-aided Synthesis. <a href="https://arxiv.org/abs/2406.07944"> [Paper] </a></div> 
@@ -94,11 +110,6 @@ Multi-Domain Code Generation. <a href="https://arxiv.org/pdf/2408.13204"> [Paper
 
 <font size=4, color='gray'><b>Meiziniu Li, Dongze Li, Jianmeng Liu,</b></font> <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Yongqiang Tian, Shing-Chi Cheung</b></font>
 
-
-<div style="line-height: 1.2;">
-<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; TASE &nbsp; </b></font></span> Fuzzing for Stateful Protocol Implementations: Are We There Yet? </div> 
-
- <font size=4, color='gray'><b>Kunpeng Jian, Yanyan Zou, Yeting Li, </b></font> <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Menghao Li, Jian Sun, Jingyi Shi and Wei Huo</b></font> 
 
 
 ### 2023
