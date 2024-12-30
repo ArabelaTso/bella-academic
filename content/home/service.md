@@ -177,9 +177,8 @@ design:
 
 
 ### **Program Committee**
-- 
 - **FSE** 2025 research track
-- **ICSE** 2024 research track
+- **ICSE** 2025 research track
 - **APSEC** 2024 technical track
 - **ISSRE** 2024 research track
 - **Internetware** 2024 research track
