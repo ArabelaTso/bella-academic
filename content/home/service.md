@@ -177,6 +177,7 @@ design:
 
 
 ### **Program Committee**
+- 
 - **FSE** 2025 research track
 - **ICSE** 2024 research track
 - **APSEC** 2024 technical track
@@ -187,6 +188,16 @@ design:
 - **FORGE** 2024
 - **AutoMates@IJCAI** 2024
 - **ICMR** 2024
+
+### **Award Committee**
+- ACM SIGSOFT Outstanding Research Award 2025
+- ACM SIGSOFT Distinguished Service Award 2025
+- ACM SIGSOFT Influential Educator Award 2025
+
+### **Session Chair**
+- ASE 2025 
+- Internetware 2024
+
 
 ### **Reviewer**
 
@@ -201,5 +212,6 @@ design:
 - **Journal of Software** (软件学报)
 
 - **TMC** (IEEE Transactions on Mobile Computing)
+
 
   
