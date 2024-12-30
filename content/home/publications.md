@@ -40,6 +40,20 @@ design:
 
 <!-- ## **Latest Publications** -->
 
+### 2025
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; AAAI &nbsp; </b></font></span> DomainEval: An Auto-Constructed Benchmark for
+Multi-Domain Code Generation. <a href="https://arxiv.org/pdf/2408.13204"> [Paper] </a><a href="https://domaineval.github.io/leaderboard.html">[Leaderboard]</a><a href="https://domaineval.github.io/leaderboard.html">[Github]</a><a href="https://huggingface.co/spaces/zhuqiming/DomainEval">[Huggingface Space]</a></div> 
+
+<font size=4, color='gray'><b>Qiming Zhu, </b></font></font>
+<font size=4.5, color='slateblue'><b> **Jialun Cao (Co-1st)**</b></font><font size=4, color='gray'><b>, Yaojie Lu, Hongyu Lin, Xianpei Han, Ben He, Le Sun, Shing-Chi Cheung</b></font>
+
+
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; AAAI &nbsp; </b></font></span> ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation </div> 
+
+<font size=4, color='gray'><b>Mengyang Wu, Yuzhi Zhao, </b></font></font>
+<font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Mingjie Xu, zhongming jiang, Xuehui Wang, Qinbin Li, Guangneng Hu, Shengchao Qin, Chi-Wing Fu </b></font>
 
 
 ### 2024
@@ -48,7 +62,6 @@ design:
 <span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; ASE &nbsp; </b></font></span> JavaBench: A Benchmark of Object-Oriented Code Generation for Evaluating Large Language Models <a href="https://arxiv.org/abs/2406.12902"> [Paper] </a><a href="https://java-bench.github.io/leaderboard.html">[Leaderboard]</a><a href="https://github.com/java-bench/JavaBench">[Benchmark] </a></div> 
 
 <font size=4.5, color='slateblue'><b> **Jialun Cao (Co-1st)**</b></font><font size=4, color='gray'><b>, Zhiyong Chen (Co-1st), Jiarong Wu, Shing-chi Cheung, Chang Xu</b></font>
-
 
 
 <div style="line-height: 1.2;">
@@ -89,18 +102,17 @@ Reasoning, Understanding and Execution. <a href="https://arxiv.org/pdf/2408.1300
 <font size=4, color='gray'><b>Ruiyang Xu, </b></font></font>
 <font size=4.5, color='slateblue'><b> **Jialun Cao (Co-1st)**</b></font><font size=4, color='gray'><b>, Yaojie Lu, Hongyu Lin, Xianpei Han, Ben He, Shing-Chi Cheung, Le Sun</b></font>
 
-<div style="line-height: 1.2;">
-<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; arXiv &nbsp; </b></font></span> DomainEval: An Auto-Constructed Benchmark for
-Multi-Domain Code Generation. <a href="https://arxiv.org/pdf/2408.13204"> [Paper] </a><a href="https://domaineval.github.io/leaderboard.html">[Leaderboard]</a><a href="https://domaineval.github.io/leaderboard.html">[Github]</a><a href="https://huggingface.co/spaces/zhuqiming/DomainEval">[Huggingface Space]</a></div> 
-
-<font size=4, color='gray'><b>Qiming Zhu, </b></font></font>
-<font size=4.5, color='slateblue'><b> **Jialun Cao (Co-1st)**</b></font><font size=4, color='gray'><b>, Yaojie Lu, Hongyu Lin, Xianpei Han, Ben He, Le Sun, Shing-Chi Cheung</b></font>
-
 
 <div style="line-height: 1.2;">
 <span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; arXiv &nbsp; </b></font></span> Concerned with Data Contamination? Assessing Countermeasures in Code Language Model. <a href="https://arxiv.org/abs/2403.16898"> [Paper] </a></div> 
 
 <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Wuqi Zhang, Shing-Chi Cheung</b></font>
+
+
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; arXiv &nbsp; </b></font></span> CodeCleaner: Elevating Standards with A Robust Data Contamination Mitigation Toolkit <a href="https://arxiv.org/abs/2411.10842"> [Paper] </a><a href="https://github.com/ArabelaTso/CodeCleaner-v1">[Github] </a></div> 
+
+<font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Songqiang Chen, Wuqi Zhang, Hau Ching Lo, Shing-Chi Cheung</b></font>
 
 
 
