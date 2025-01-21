@@ -48,7 +48,7 @@ Revisiting Code-Related Benchmarks For LLMs <a href="https://www.researchgate.ne
 
 
 <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Yuk-Kit Chan*, Zixuan Ling* , Wenxuan Wang†, Shuqing Li,
-Mingwei Liu, Ruixi Qiao4, Yuting Han, Chaozheng Wang, Boxi Yu, Pinjia He, Shuai Wang, Zibin Zheng, Michael R. Lyu, Shing-Chi Cheung</b></font>
+Mingwei Liu, Ruixi Qiao, Yuting Han, Chaozheng Wang, Boxi Yu, Pinjia He, Shuai Wang, Zibin Zheng, Michael R. Lyu, Shing-Chi Cheung</b></font>
 
 
 
