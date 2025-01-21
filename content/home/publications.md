@@ -41,6 +41,18 @@ design:
 <!-- ## **Latest Publications** -->
 
 ### 2025
+
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; Preprint &nbsp; </b></font></span> How Should I Build A Benchmark?
+Revisiting Code-Related Benchmarks For LLMs <a href="https://www.researchgate.net/publication/388220926_How_Should_I_Build_A_Benchmark_Revisiting_Code-Related_Benchmarks_For_LLMs"> [Paper] </a></div> 
+
+
+<font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Yuk-Kit Chan*, Zixuan Ling* , Wenxuan Wang†, Shuqing Li,
+Mingwei Liu, Ruixi Qiao4, Yuting Han, Chaozheng Wang, Boxi Yu, Pinjia He, Shuai Wang, Zibin Zheng, Michael R. Lyu, Shing-Chi Cheung</b></font>
+
+
+
+
 <div style="line-height: 1.2;">
 <span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; AAAI &nbsp; </b></font></span> DomainEval: An Auto-Constructed Benchmark for
 Multi-Domain Code Generation. <a href="https://arxiv.org/pdf/2408.13204"> [Paper] </a><a href="https://domaineval.github.io/leaderboard.html">[Leaderboard]</a><a href="https://domaineval.github.io/leaderboard.html">[Github]</a><a href="https://huggingface.co/spaces/zhuqiming/DomainEval">[Huggingface Space]</a></div> 
