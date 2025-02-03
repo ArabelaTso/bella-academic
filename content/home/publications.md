@@ -48,6 +48,22 @@ design:
 </b></font> <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Meiziniu Li, Ming Wen, Shing-chi Cheung</b></font>
 
 
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; FSE &nbsp; </b></font></span> SemBIC: Semantic-aware Identification of Bug-inducing Commits </div> 
+
+<font size=4, color='gray'><b>Xiao Chen, Hengcheng Zhu, </b></font></font>
+<font size=4.5, color='slateblue'><b>**Jialun Cao (Co-Corresponding)**</b></font><font size=4, color='gray'><b>, Ming Wen, Shing-Chi Cheung (Co-corresponding)</b></font>
+
+
+
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; AAAI &nbsp; </b></font></span> ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation. <a href="https://arxiv.org/abs/2412.18216"> [Paper] </a> 
+</div> 
+
+<font size=4, color='gray'><b>Mengyang Wu, Yuzhi Zhao, </b></font></font>
+<font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Mingjie Xu, zhongming jiang, Xuehui Wang, Qinbin Li, Guangneng Hu, Shengchao Qin, Chi-Wing Fu </b></font> 
+
+
 
 
 <div style="line-height: 1.2;">
@@ -66,21 +82,7 @@ Mingwei Liu, Ruixi Qiao, Yuting Han, Chaozheng Wang, Boxi Yu, Pinjia He, Shuai W
 
 
 
-<div style="line-height: 1.2;">
-<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; FSE &nbsp; </b></font></span> SemBIC: Semantic-aware Identification of Bug-inducing Commits </div> 
 
-<font size=4, color='gray'><b>Xiao Chen, Hengcheng Zhu, </b></font></font>
-<font size=4.5, color='slateblue'><b>**Jialun Cao (Co-Corresponding)**</b></font><font size=4, color='gray'><b>, Ming Wen, Shing-Chi Cheung (Co-corresponding)</b></font>
-
-
-
-
-<div style="line-height: 1.2;">
-<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; AAAI &nbsp; </b></font></span> ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation. <a href="https://arxiv.org/abs/2412.18216"> [Paper] </a> 
-</div> 
-
-<font size=4, color='gray'><b>Mengyang Wu, Yuzhi Zhao, </b></font></font>
-<font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Mingjie Xu, zhongming jiang, Xuehui Wang, Qinbin Li, Guangneng Hu, Shengchao Qin, Chi-Wing Fu </b></font> 
 
 
 ### 2024
