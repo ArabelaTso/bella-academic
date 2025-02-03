@@ -55,6 +55,14 @@ design:
 <font size=4.5, color='slateblue'><b>**Jialun Cao (Co-Corresponding)**</b></font><font size=4, color='gray'><b>, Ming Wen, Shing-Chi Cheung (Co-corresponding)</b></font>
 
 
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; AAAI &nbsp; </b></font></span> DomainEval: An Auto-Constructed Benchmark for
+Multi-Domain Code Generation. <a href="https://arxiv.org/pdf/2408.13204"> [Paper] </a><a href="https://domaineval.github.io/leaderboard.html">[Leaderboard]</a><a href="https://domaineval.github.io/leaderboard.html">[Github]</a><a href="https://huggingface.co/spaces/zhuqiming/DomainEval">[Huggingface Space]</a></div> 
+
+<font size=4, color='gray'><b>Qiming Zhu, </b></font></font>
+<font size=4.5, color='slateblue'><b> **Jialun Cao (Co-1st)**</b></font><font size=4, color='gray'><b>, Yaojie Lu, Hongyu Lin, Xianpei Han, Ben He, Le Sun, Shing-Chi Cheung</b></font>
+
+
 
 <div style="line-height: 1.2;">
 <span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; AAAI &nbsp; </b></font></span> ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation. <a href="https://arxiv.org/abs/2412.18216"> [Paper] </a> 
