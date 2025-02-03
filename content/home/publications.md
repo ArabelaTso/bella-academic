@@ -43,22 +43,34 @@ design:
 ### 2025
 
 <div style="line-height: 1.2;">
-<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; Preprint &nbsp; </b></font></span> How Should I Build A Benchmark?
-Revisiting Code-Related Benchmarks For LLMs <a href="https://www.researchgate.net/publication/388220926_How_Should_I_Build_A_Benchmark_Revisiting_Code-Related_Benchmarks_For_LLMs"> [Paper] </a></div> 
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; ASEJ &nbsp; </b></font></span>  A study on prompt design, advantages and limitations of chatgpt for deep learning program repair. <a href="https://arxiv.org/abs/2304.08191"> [Paper] </a></div> 
 
+</b></font> <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Meiziniu Li, Ming Wen, Shing-chi Cheung</b></font>
+
+
+
+
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; Preprint &nbsp; </b></font></span> How Should I Build A Benchmark?
+Revisiting Code-Related Benchmarks For LLMs <a href="https://arxiv.org/pdf/2501.10711"> [Paper] </a></div> 
 
 <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Yuk-Kit Chan*, Zixuan Ling* , Wenxuan Wang†, Shuqing Li,
 Mingwei Liu, Ruixi Qiao, Yuting Han, Chaozheng Wang, Boxi Yu, Pinjia He, Shuai Wang, Zibin Zheng, Michael R. Lyu, Shing-Chi Cheung</b></font>
 
 
 
+<div style="line-height: 1.2;">
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; Preprint &nbsp; </b></font></span> From Informal to Formal -- Incorporating and Evaluating LLMs on Natural Language Requirements to Verifiable Formal Proofs <a href="https://arxiv.org/abs/2501.16207"> [Paper] </a></div> 
+
+<font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Yaojie Lu, Meiziniu Li, Haoyang Ma, Haokun Li, Mengda He, Cheng Wen, Le Sun, Hongyu Zhang, Shengchao Qin, Shing-Chi Cheung, Cong Tian</b></font>
+
+
 
 <div style="line-height: 1.2;">
-<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; AAAI &nbsp; </b></font></span> DomainEval: An Auto-Constructed Benchmark for
-Multi-Domain Code Generation. <a href="https://arxiv.org/pdf/2408.13204"> [Paper] </a><a href="https://domaineval.github.io/leaderboard.html">[Leaderboard]</a><a href="https://domaineval.github.io/leaderboard.html">[Github]</a><a href="https://huggingface.co/spaces/zhuqiming/DomainEval">[Huggingface Space]</a></div> 
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; FSE &nbsp; </b></font></span> SemBIC: Semantic-aware Identification of Bug-inducing Commits </div> 
 
-<font size=4, color='gray'><b>Qiming Zhu, </b></font></font>
-<font size=4.5, color='slateblue'><b> **Jialun Cao (Co-1st)**</b></font><font size=4, color='gray'><b>, Yaojie Lu, Hongyu Lin, Xianpei Han, Ben He, Le Sun, Shing-Chi Cheung</b></font>
+<font size=4, color='gray'><b>Xiao Chen, Hengcheng Zhu, </b></font></font>
+<font size=4.5, color='slateblue'><b>**Jialun Cao (Co-Corresponding)**</b></font><font size=4, color='gray'><b>, Ming Wen, Shing-Chi Cheung (Co-corresponding)</b></font>
 
 
 
@@ -161,10 +173,7 @@ Reasoning, Understanding and Execution. <a href="https://arxiv.org/pdf/2408.1300
 
 
 
-<div style="line-height: 1.2;">
-<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; arXiv &nbsp; </b></font></span>  A study on prompt design, advantages and limitations of chatgpt for deep learning program repair. <a href="https://arxiv.org/abs/2304.08191"> [Paper] </a></div> 
 
-</b></font> <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Meiziniu Li, Ming Wen, Shing-chi Cheung</b></font>
 
 
 ### 2022
