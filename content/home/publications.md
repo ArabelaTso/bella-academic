@@ -76,7 +76,7 @@ Mingwei Liu, Ruixi Qiao, Yuting Han, Chaozheng Wang, Boxi Yu, Pinjia He, Shuai W
 
 
 <div style="line-height: 1.2;">
-<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; Preprint &nbsp; </b></font></span> From Informal to Formal -- Incorporating and Evaluating LLMs on Natural Language Requirements to Verifiable Formal Proofs <a href="https://arxiv.org/abs/2501.16207"> [Paper] </a></div> 
+<span style="background-color: slateblue"><font size=4, color='white'><b> &nbsp; Preprint &nbsp; </b></font></span> From Informal to Formal -- Incorporating and Evaluating LLMs on Natural Language Requirements to Verifiable Formal Proofs <a href="https://arxiv.org/abs/2501.16207"> [Paper] </a><a href="https://huggingface.co/fm-universe"> [Huggingface Model Download]</a></div> 
 
 <font size=4.5, color='slateblue'><b> **Jialun Cao**</b></font><font size=4, color='gray'><b>, Yaojie Lu, Meiziniu Li, Haoyang Ma, Haokun Li, Mengda He, Cheng Wen, Le Sun, Hongyu Zhang, Shengchao Qin, Shing-Chi Cheung, Cong Tian</b></font>
 
