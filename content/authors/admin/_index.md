@@ -74,6 +74,6 @@ email: "jcaoap@cse.ust.hk"
 highlight_name: true
 ---
 
-Jialun CAO received her PhD degree from the [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/) at [HKUST](https://hkust.edu.hk/), under the supervision of [Prof. S.C. Cheung](https://www.cse.ust.hk/faculty/scc/). Her research interests lie in the intersection of Software Engineering (SE) and Large language models (LLMs), with an emphasis on **LLM4SE**, and **LLM Evaluation**. She is the winner of 2025 ACM SIGSOFT Outstanding Doctoral Dissertation Award.
+Jialun CAO received her PhD degree from the [Department of Computer Science and Engineering](https://cse.hkust.edu.hk/) at [HKUST](https://hkust.edu.hk/), under the supervision of [Prof. S.C. Cheung](https://www.cse.ust.hk/faculty/scc/). Her research interests lie in the intersection of Software Engineering (SE) and Large language models (LLMs), with an emphasis on **LLM4SE**, and **LLM Evaluation**. She received 2025 [ACM SIGSOFT Outstanding Doctoral Dissertation Award](https://www2.sigsoft.org/awards/dissertation/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
