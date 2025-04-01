@@ -1,3 +1,7 @@
+[redirects]
+  from = "/"
+  to = "https://jialuncao.github.io/"
+
 [build]
   command = "hugo --gc --minify -b $URL"
   publish = "public"
