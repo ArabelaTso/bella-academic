@@ -1,6 +1,8 @@
-[redirects]
-  from = "/"
-  to = "https://jialuncao.github.io/"
+[[redirects]]
+  from = "https://bella-academic.netlify.app/*"
+  to = "https://jialuncao.github.io/:splat"
+  status = 301
+  force = true
 
 [build]
   command = "hugo --gc --minify -b $URL"
